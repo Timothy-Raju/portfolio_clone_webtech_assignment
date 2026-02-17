@@ -351,6 +351,14 @@
   .about__description {
     margin-bottom: 3rem;
   }
+
+  .vit-logo{
+    width:20%;
+  }
+
+  .vit-logo-footer{
+    margin: auto;
+  }
   
   .skills {
     justify-self: center;
